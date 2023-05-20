@@ -3,6 +3,37 @@ This is the feedback I collected from the Gripes and Wishes campaign that ran fr
 
 I've mostly just dumped the raw feebdack into loosely categorized lists. Whether the categorizations are all accurate right now is irrelevant. As we work through everything here and decide how to proceed, we'll put things where they belong.
 
+A few notes:
+
+* I've excluded Bugzilla issues that have since been closed
+* I've tried to include examples and suggestions that were
+provided along with the points, but I have cut out some bits that
+were irrelevant or extraneous.
+* I've not included compliments. I wanted to focus only on things
+we need to fix/change. But the compliments were received and much
+appreciated.
+* There were three pieces that I decided not to breakdown into
+actionable items and included in longform instead. Those are at
+the bottom of the document.
+* I'll probably update this list after our planning meeting
+tomorrow.
+
+So, the next steps related to this. Generally, we need to:
+
+* establish some high-level goals ([and this has been done](https://forum.dlang.org/thread/mqwhekbqqkabdvqpdppl@forum.dlang.org))
+* go through this list to see what fits with those goals, what
+doesn't fit now but could be done later, and what is unlikely to
+ever fit any goals
+* discuss additional ideas from our own wish lists (and I'll
+update the document with those once I have them all)
+* prioritize everything we've decided fits our current goals
+* publish categorized task lists
+* work out who among us is responsible for what
+* get things done
+
+That last one is the hard part. I'll have more to say about it
+when the time comes.
+
 ## TOC
 * [Process](#process)
 * [Language/Runtime](#languageruntime)
